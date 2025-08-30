@@ -1,4 +1,5 @@
  Laptop-price-pridiction
+ 
  Project Overview
 
 This project predicts the prices of laptops based on features such as company, type, RAM, CPU, memory, GPU, and operating system. It uses Python and machine learning to provide accurate pricing predictions, helping businesses and customers make data-driven decisions.
