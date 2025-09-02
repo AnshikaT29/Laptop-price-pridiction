@@ -45,39 +45,39 @@ Features include:
 
 1. ✅ Data Cleaning
 
-Removed duplicates 
+      Removed duplicates 
 
-Handled missing values 
+      Handled missing values 
 
-Standardized column names 
+      Standardized column names 
 
 
 
 2. ✅ Feature Engineering
 
-Encoded categorical variables 
+      Encoded categorical variables 
 
-Optimized features for better performance 
+      Optimized features for better          performance 
 
 
 
 3. ✅Model Training
 
-Used Random Forest Regressor  to predict prices
+     Used Random Forest Regressor  to       predict prices
 
 
 
 4. ✅ Model Evaluation
 
-Mean Absolute Error (MAE) 
+      Mean Absolute Error (MAE) 
 
-R² Score 📊
+      R² Score 📊
 
 
 
 5. ✅ Visualization
 
-Compared Actual vs Predicted Prices using scatter plots 
+      Compared Actual vs Predicted           Prices using scatter plots 
 
 
 
@@ -87,15 +87,15 @@ Compared Actual vs Predicted Prices using scatter plots
 
 🧰 Tools & Skills
 
- Python
+   Python
 
- Pandas, NumPy
+   Pandas, NumPy
 
- Matplotlib
+   Matplotlib
 
- Scikit-Learn
+   Scikit-Learn
 
- Data Analysis, Feature Engineering,    Machine Learning
+   Data Analysis, Feature Engineering,    Machine Learning
 
 
 
