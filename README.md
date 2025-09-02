@@ -43,41 +43,41 @@ Features include:
 
 🛠 Project Steps
 
-1. 🧹 Data Cleaning
+1. ✅ Data Cleaning
 
-Removed duplicates ✅
+Removed duplicates 
 
-Handled missing values 🔄
+Handled missing values 
 
-Standardized column names ✏️
-
-
-
-2. 🏗 Feature Engineering
-
-Encoded categorical variables 🔢
-
-Optimized features for better performance ⚡
+Standardized column names 
 
 
 
-3. 🤖 Model Training
+2. ✅ Feature Engineering
 
-Used Random Forest Regressor 🌳 to predict prices
+Encoded categorical variables 
+
+Optimized features for better performance 
 
 
 
-4. 📏 Model Evaluation
+3. ✅Model Training
 
-Mean Absolute Error (MAE) 📉
+Used Random Forest Regressor  to predict prices
+
+
+
+4. ✅ Model Evaluation
+
+Mean Absolute Error (MAE) 
 
 R² Score 📊
 
 
 
-5. 📈 Visualization
+5. ✅ Visualization
 
-Compared Actual vs Predicted Prices using scatter plots 🔍
+Compared Actual vs Predicted Prices using scatter plots 
 
 
 
@@ -87,15 +87,15 @@ Compared Actual vs Predicted Prices using scatter plots 🔍
 
 🧰 Tools & Skills
 
-🐍 Python
+ Python
 
-📦 Pandas, NumPy
+ Pandas, NumPy
 
-📊 Matplotlib
+ Matplotlib
 
-⚙️ Scikit-Learn
+ Scikit-Learn
 
-🛠 Data Analysis, Feature Engineering, Machine Learning
+ Data Analysis, Feature Engineering,    Machine Learning
 
 
 
