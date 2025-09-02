@@ -1,34 +1,119 @@
- Laptop-price-pridiction
- 
- Project Overview
+ 💻 Laptop Price Prediction
 
-This project predicts the prices of laptops based on features such as company, type, RAM, CPU, memory, GPU, and operating system. It uses Python and machine learning to provide accurate pricing predictions, helping businesses and customers make data-driven decisions.
+📌 Project Overview
 
-Dataset
+This project predicts laptop prices based on various hardware and brand features.
+It uses Python and Machine Learning to provide accurate pricing predictions, helping businesses and customers make data-driven decisions.
 
-1,303 laptop records collected from Kaggle
 
-Features include: Company, TypeName, Inches, ScreenResolution, CPU, RAM, Memory, GPU, OpSys, Weight, Price
+---
 
-Project Steps
+📊 Dataset
 
-Data Cleaning: Removed duplicates, handled missing values, and standardized column names
+📌 Source: Kaggle
+📌 Total Records: 1,303 laptops
 
-Feature Engineering: Encoded categorical variables and optimized features for better model performance
+Features include:
 
-Model Training: Built a Random Forest Regressor to predict laptop prices
+🏢 Company – Laptop brand
 
-Model Evaluation: Calculated metrics such as Mean Absolute Error (MAE) and R² Score
+💻 TypeName – Category/type of laptop
 
-Visualization: Compared actual vs predicted prices using scatter plots for insights
+📏 Inches – Screen size
 
-Tools & Skills
+🖥 ScreenResolution – Display resolution
 
-Python, Pandas, NumPy, Matplotlib, Scikit-Learn, Data Analysis, Feature Engineering, Machine Learning
+⚙️ CPU – Processor details
 
-Impact
+🧠 RAM – Memory size in GB
 
-This project demonstrates end-to-end skills in data analysis, machine learning, and visualization, providing actionable insights for businesses and users.
+💾 Memory – Storage (HDD/SSD/Hybrid)
 
-Project Link
+🎮 GPU – Graphics card details
+
+🖥 OpSys – Operating system
+
+⚖️ Weight – Laptop weight
+
+💰 Price – Target variable (laptop price)
+
+
+
+---
+
+🛠 Project Steps
+
+1. 🧹 Data Cleaning
+
+Removed duplicates ✅
+
+Handled missing values 🔄
+
+Standardized column names ✏️
+
+
+
+2. 🏗 Feature Engineering
+
+Encoded categorical variables 🔢
+
+Optimized features for better performance ⚡
+
+
+
+3. 🤖 Model Training
+
+Used Random Forest Regressor 🌳 to predict prices
+
+
+
+4. 📏 Model Evaluation
+
+Mean Absolute Error (MAE) 📉
+
+R² Score 📊
+
+
+
+5. 📈 Visualization
+
+Compared Actual vs Predicted Prices using scatter plots 🔍
+
+
+
+
+
+---
+
+🧰 Tools & Skills
+
+🐍 Python
+
+📦 Pandas, NumPy
+
+📊 Matplotlib
+
+⚙️ Scikit-Learn
+
+🛠 Data Analysis, Feature Engineering, Machine Learning
+
+
+
+---
+
+🌟 Impact
+
+This project demonstrates end-to-end skills in:
+✅ Data Cleaning & Preprocessing
+✅ Machine Learning Model Development
+✅ Data Visualization for insights
+✅ Delivering actionable pricing predictions for businesses & customers
+
+
+
+---
+
+🔗 Project Link
+
 https://github.com/AnshikaT29/Laptop-price-pridiction/commit/ddfa36938f72a06c31508fc2c50084a5e76afd58
+
